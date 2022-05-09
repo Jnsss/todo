@@ -1,1 +1,2 @@
-# todo
+# ToDo
+React todo app using localStorage

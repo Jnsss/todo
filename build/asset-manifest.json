@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3dc98ec7.css",
+    "main.js": "/static/js/main.899fc74d.js",
+    "static/media/Quicksand-Regular.ttf": "/static/media/Quicksand-Regular.109d09e5f7c827d891ab.ttf",
+    "static/media/Quicksand-SemiBold.ttf": "/static/media/Quicksand-SemiBold.f36a86e2ff447dc869f0.ttf",
+    "index.html": "/index.html",
+    "main.3dc98ec7.css.map": "/static/css/main.3dc98ec7.css.map",
+    "main.899fc74d.js.map": "/static/js/main.899fc74d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dc98ec7.css",
+    "static/js/main.899fc74d.js"
+  ]
+}
